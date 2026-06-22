@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there!👋
 
-<!--
-**AKHIL-20243566/AKHIL-20243566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akhil,a CS student at MNNIT Allahabad interested in AI, Machine Learning, and Deep Learning.
 
-Here are some ideas to get you started:
+I enjoy building projects that turn research ideas into practical applications. Recently, I've been working on DocuMind AI, an LLM-powered document assistant using RAG, and AI Basketball Analysis, a computer vision system for player tracking and performance analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my time goes into learning, building, and occasionally competing in programming contests.
+
+### A few things about me
+
+* Aspiring AI Engineer
+* Interested in LLMs, RAG, Computer Vision, and Deep Learning
+* LeetCode Rating: 1648
+* Selected among 60,000+ students for a competitive programming mentorship program
+* Currently exploring how AI can solve real-world problems
+
+### Featured Projects
+
+* **DocuMind AI** — Document question answering using Retrieval-Augmented Generation
+* **AI Basketball Analysis** — Real-time player tracking and analytics using Computer Vision
+* **MAYA Near Duplicate** — Image similarity and duplicate detection system
+
+### Connect
+
+* LinkedIn: linkedin.com/in/akhil-prakash
+* Email: [akhilprakash3566@gmail.com](mailto:akhilprakash3566@gmail.com)
