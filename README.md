@@ -1,26 +1,15 @@
-# Hey there!👋
+# Hey, I'm Akhil 👋
 
-I'm Akhil, a CS student at MNNIT Allahabad interested in AI, Machine Learning, and Deep Learning.
+Building things that occasionally work on the first try.
 
-I enjoy building projects that turn research ideas into practical applications. Recently, I've been working on DocuMind AI, an LLM-powered document assistant using RAG, and AI Basketball Analysis, a computer vision system for player tracking and performance analytics.
+CS Student @ MNNIT Allahabad exploring AI, Machine Learning, and Deep Learning.
 
-Most of my time goes into learning, building, and occasionally competing in programming contests.
+Building products around:
 
-### A few things about me
+* LLMs & RAG
+* Computer Vision
+* Real-world AI Applications
 
-* Aspiring AI Engineer
-* Interested in LLMs, RAG, Computer Vision, and Deep Learning
-* LeetCode Rating: 1648
-* Selected among 60,000+ students for a competitive programming mentorship program
-* Currently exploring how AI can solve real-world problems
+Currently working on DocuMind AI, AI Basketball Analysis, and MAYA Near Duplicate.
 
-### Featured Projects
-
-* **DocuMind AI** — Document question answering using Retrieval-Augmented Generation
-* **AI Basketball Analysis** — Real-time player tracking and analytics using Computer Vision
-* **MAYA Near Duplicate** — Image similarity and duplicate detection system
-
-### Connect
-
-* LinkedIn: linkedin.com/in/akhil-prakash
-* Email: [akhilprakash3566@gmail.com](mailto:akhilprakash3566@gmail.com)
+Aspiring AI Engineer • LeetCode 1648
