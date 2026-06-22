@@ -1,6 +1,6 @@
 # Hey there!👋
 
-I'm Akhil,a CS student at MNNIT Allahabad interested in AI, Machine Learning, and Deep Learning.
+I'm Akhil, a CS student at MNNIT Allahabad interested in AI, Machine Learning, and Deep Learning.
 
 I enjoy building projects that turn research ideas into practical applications. Recently, I've been working on DocuMind AI, an LLM-powered document assistant using RAG, and AI Basketball Analysis, a computer vision system for player tracking and performance analytics.
 
