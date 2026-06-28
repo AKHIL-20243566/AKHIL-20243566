@@ -1,19 +1,20 @@
 # Hey there 👋
 
-I'm Akhil, a CS student at MNNIT Allahabad.
+I'm **Akhil Prakash**, a Computer Science undergraduate at **MNNIT Allahabad** with a strong interest in building intelligent software systems.
 
-I'm interested in AI, Machine Learning, and building systems that solve real-world problems. Most of my recent work has been around LLMs, RAG, and Computer Vision through projects like DocuMind AI, AI Basketball Analysis, and MAYA Near Duplicate.
+My recent work focuses on **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and **Computer Vision**, where I enjoy combining AI with software engineering to solve practical problems.
 
-### Things I enjoy building
+### What I'm currently building
 
-* AI applications powered by LLMs
-* Computer Vision systems
-* Tools that automate repetitive work
-* Projects that start as "what if..." ideas
+*  Hybrid RAG document intelligence systems
+*  LLM-powered AI applications
+*  Computer vision pipelines for sports analytics
+*  Full-stack AI applications using FastAPI and React
 
 ### A few quick facts
 
-* Aspiring AI Engineer
-* LeetCode Rating: 1648
-* Selected among 60,000+ students for a CP mentorship program
-* I believe the best way to learn is to build
+*  B.Tech CSE @ MNNIT Allahabad
+*  Interested in Software Engineering and Applied AI
+*  Selected among **60,000+** students across India for a competitive programming mentorship under a Codeforces Master
+*  LeetCode Rating: **1791**
+*  I enjoy turning research ideas into working software systems
